@@ -27,7 +27,7 @@ Our desktop application must enable the user to:
 * Configure SSO integration to get as much as possible data about the end-user;
 
 ### Video
-[MP4-LINK](lab6.mp4)
+[MP4-LINK](cs_lab6.mp4)
 ### Technologies
 
 In this laboratory work I have used HTML, CSS and Javascript.
